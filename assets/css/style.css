@@ -9,4 +9,19 @@
 body {
     font-family: 'Raleway', sans-serif;
     font-weight: 300;
+    color: #000000;
+    background-color: #eacfc8;
+}
+
+/* headings and logo */
+
+h1, h2 {
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #523314;
+}
+
+#logo {
+    font-size: 280%;
 }
