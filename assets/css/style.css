@@ -167,3 +167,32 @@ footer {
 #pictures > img {
     width: 100%;
 }
+
+/* signup page */
+
+  /* adding background image to signup form-section */
+.form-section {
+    clear: left;
+    background-image: url(../images/germany-return-artefacts.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+} 
+
+    /* style signup form */
+
+.signup-form {
+    margin: 150px 10% 0 0;
+    color: #000000;
+    background-color: rgba(93, 134, 152, 0.7);
+    max-width: 500px;
+    position: absolute;
+    left: 10%;
+    padding: 30px;
+} 
+
+#form-heading {
+    color: #000000;
+    text-transform: none;
+    margin-bottom: 20px;
+}
