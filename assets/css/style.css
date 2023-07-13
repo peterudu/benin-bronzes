@@ -217,7 +217,7 @@ footer {
     background-color: #000000;
 }
 
-/* timeline page */
+/* style timeline page */
 
 /* The overall parent timeline container */
 .timeline {
@@ -237,7 +237,7 @@ footer {
     left: 50%;
     margin-left: -3px;
 }
-
+ 
 /* Container wraping around the text content div */
 .container {
     padding: 10px 40px;
@@ -272,7 +272,7 @@ footer {
 
 /* Add arrows to the left container (pointing right) */
 .left::before {
-    content: '';
+    content: " ";
     height: 0;
     position: absolute;
     top: 22px;
@@ -281,5 +281,32 @@ footer {
     right: 30px;
     border: medium solid white;
     border-width: 10px 0 10px 10px;
-    background-color: transparent transparent transparent white;
+    border-color: transparent transparent transparent white;
+}
+
+/* Add arrows to the right container (pointing left) */
+.right::before {
+    content: " ";
+    height: 0;
+    position: absolute;
+    top: 22px;
+    width: 0;
+    z-index: 1;
+    left: 30px;
+    border: medium solid white;
+    border-width: 10px 10px 10px 0;
+    border-color: transparent white transparent transparent;
+}
+
+  /* Fix the circle for containers on the right side */
+  .right::after {
+    left: -16px;
+}
+
+/* Div for text content */
+.content {
+    padding: 20px 30px;
+    background-color: white;
+    position: relative;
+    border-radius: 6px;
 }
