@@ -324,6 +324,8 @@ footer {
     margin-top: 20px;
     margin-bottom: 30px;
 }
+
+
 /* Media Queries */
 
 /* For medium screen sizes from 950px wide and below */
@@ -337,5 +339,40 @@ footer {
 @media screen and (max-width: 800px) {
     #pictures {
         column-count: 2;
+    }
+}
+
+/* For small screen sizes from 600px wide and below */
+    @media screen and (max-width: 600px) {
+
+    /* Place the timeline to the left */
+    .timeline::after {
+        left: 31px;
+    }
+
+    /* Full-width containers */
+    .container {
+        width: 100%;
+        padding-left: 70px;
+        padding-right: 25px;
+    }
+
+    /* Make all arrows to point leftwards */
+    .container::before {
+        left: 60px;
+        border: medium solid white;
+        border-width: 10px 10px 10px 0;
+        border-color: transparent white transparent transparent;
+    }
+
+    /* Make all circles to be on same position */
+    .left::after,
+    .right::after {
+        left: 15px;
+    }
+
+    /* Make all right containers behave like the left ones */
+    .right {
+        left: 0%;
     }
 }
