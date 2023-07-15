@@ -11,6 +11,7 @@ body {
     font-weight: 300;
     color: #000000;
     background-color: #eacfc8;
+    min-height: 100vh;
 }
 
 /* headings and logo */
@@ -157,10 +158,12 @@ footer {
     color: #000000;
 }
 
+/* gallery page */
+
 #pictures {
     clear: both;
     line-height: 0;
-    column-count: 3;
+    column-count: 4;
     column-gap: 0;
 }
 
@@ -321,4 +324,18 @@ footer {
     margin-top: 20px;
     margin-bottom: 30px;
 }
+/* Media Queries */
 
+/* For medium screen sizes from 950px wide and below */
+@media screen and (max-width: 950px) {
+    #pictures {
+        column-count: 3;
+    }
+}
+
+/* For small screen sizes from 800px wide and below */
+@media screen and (max-width: 800px) {
+    #pictures {
+        column-count: 2;
+    }
+}
