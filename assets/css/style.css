@@ -130,7 +130,6 @@ nav li {
 
 .grid-item {
     padding: 20px;
-    max-height: 350px;
 }
 
 .grid-item > h3 {
@@ -310,7 +309,7 @@ footer {
     left: -16px;
 }
 
-    /* container for text content */
+/* container for text content */
 .content {
     padding: 20px 30px;
     background-color: white;
@@ -319,7 +318,7 @@ footer {
 }
 
 .content > h3 {
-    margin-bottom: 700000px;
+    margin-bottom: 7px;
 }
 
 #historic-timeline > h2 {
@@ -335,10 +334,20 @@ footer {
 /* For medium screen sizes from 950px wide and below */
 @media screen and (max-width: 950px) {
 
-    /* GALLERY */
+     /* GALLERY */
         /* Change the number of columns */
     #pictures {
         column-count: 3;
+    }
+    /* HOME page */
+        /* Change the number of columns */
+    .grid-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .item-left {
+        grid-column-start: 1;
+        grid-column-end: 3;
     }
 }
 
@@ -350,8 +359,7 @@ footer {
     #pictures {
         column-count: 2;
     }
-}
-
+} 
 
 /* For small screen sizes from 600px wide and below */
     @media screen and (max-width: 600px) {
@@ -387,4 +395,11 @@ footer {
     .right {
         left: 0%;
     }
+
+    /* HOME page */
+        /* Change the number of columns */
+        .grid-container {
+            display: block;
+        }
+        
 }
