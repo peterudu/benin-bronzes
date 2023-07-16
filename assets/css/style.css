@@ -432,4 +432,13 @@ footer {
     #cover-text {
         display: none;
     }
+
+    #menu {
+        display: block;
+        font-size: 100%;
+    }
+
+    #menu li {
+        padding: 9px;
+    }
 } 
