@@ -411,8 +411,25 @@ footer {
 
     /* HOME page */
         /* Change the number of columns */
-        .grid-container {
-            display: block;
-        }
+    .grid-container {
+        display: block;
+    }
+
+    #cover-text {
+        left: 0;
+        width: 250px;
+        height: 120px;
+        padding-top: 30px;
+        font-size: 100%;
+    }
         
 }
+
+/* For small screen sizes from 450px wide and below */
+@media screen and (max-width: 450px) {
+
+        /* Remove cover text for very small screen sizes */
+    #cover-text {
+        display: none;
+    }
+} 
