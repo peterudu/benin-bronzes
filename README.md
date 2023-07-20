@@ -10,6 +10,26 @@ Add a link to my live website hosted at GitHub Pages here.
 
 ## User Experience (UX)
 ## Design
+### Colour Scheme
+The body of the website pages is characterized by a light terracotta coloured background which is used to present the basic face of the website. This colour was intentionally chosen with the aim to blend the background with the traditional colour of the Benin Bronzes artefacts as so capture the atmosphere of Benin City, the origin of where the objects were created. As contrast dark shades of black and brown are used for the headings and text which gives the site’s visitor a calming feel.
+
+![A range of colours](/assets/images/range-of-colors.png)
+The colour choice was aided using the [webfx color-picker](https://www.webfx.com/web-design/color-picker/ ) tool
+
+### Typography
+Google Fonts was used to select the following free fonts:
+- Roboto for the prominent h1 and h2 headings.
+- Raleway for the body text content on the website.
+
+Both fonts are san-serif and they complement each other.
+### Imagery
+
+### Wireframes
+Wireframes of the home page were created for mobile and desktop devices.
+
+- [Wireframe of home page on a desktop device](/assets/images/home-page-wireframe-desktop.png)
+- [Wireframe of home page on a mobile device](/assets/images/home-page-wireframe-mobile.png)
+
 ## Features
 ## Technologies Used
 ### Languages Used
