@@ -42,16 +42,17 @@ Github was used to save and store the files for the website
 
 Gitpod workspace was used to write and edit code for the website
 
+Balsamiq was used to create wireframes for the website
+
 Fontawesome was use to generate icons on the website
 
 Google Fonts was used to import fonts used on the website
 
 Chrome DevTools was used to inspect the rendered HTML and test out features of the website
 
-Tiny PNG was used to compress images used on the website
+[Tiny PNG](https://tinypng.com/) was used to compress some images used on the website
 
-Am I Responsive was used to show how the website would look on different devices
-
+[Am I Responsive](https://ui.dev/amiresponsive) was used to show how the website would look on different devices
 
 ## Deployment and Local Development
 ## Testing
@@ -62,6 +63,7 @@ Am I Responsive was used to show how the website would look on different devices
 ### Content
 - Text content about the Benin Bronzes particularly information which was used in the showcase and issues sections of the home page as well as content on the timeline pages were sourced from online articles from [Digital Benin](https://digitalbenin.org/), from [History Extra](https://www.historyextra.com/), [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) and from [The Collector](https://www.thecollector.com/). 
 - The structure and layout used to build the hero-image, the gallery page and the sign up page were based on examples from [Code Institute Love Running Walkthrough Project](https://code-institute-org.github.io/love-running-2.0/index.html)
+- The structure and layout used to create the README file was modelled on example by [Kera Cudmore](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-readme.md) 
 - The icons used in the timeline and footer section were sourced from [Font Awesome](https://fontawesome.com/) 
 ### Media
 #### Images
