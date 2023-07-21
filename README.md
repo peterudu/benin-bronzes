@@ -31,6 +31,15 @@ Wireframes of the home page were created for mobile and desktop devices.
 - [Wireframe of home page on a mobile device](/assets/images/home-page-wireframe-mobile.png)
 
 ### Features
+The Benin Bronzes website has four pages, namely the home page, timeline page, gallery page and sign up page. Each of these pages are linked to one another and they can be accessed using the navigation menu in the navigation bar.
+- Navigation Bar
+    - The navigation bar is responsive and is a feature on all the pages of the website. The navigation bar contains the logo to the left and to the right a navigation menu with links to the home page, the timeline page, gallery page and the sign up page.
+    - The navigation bar allows the site user to navigate from one page to another without the need to return back to the previous page. This provides for a better user experience.
+    
+
+    ![Navigation Bar](/assets/images/navigation-bar.png)
+
+
 ### Accessibility
 ## Technologies Used
 ### Languages Used
