@@ -54,6 +54,13 @@ The Benin Bronzes website has four pages, namely the home page, timeline page, g
 
 
       ![Showcase section](/assets/images/showcase-section.png)
+    - Issues section
+        - The issues section begins with an image of a significant event that occured in the past. It then focuses on contemporary topics and events concerning the Benin Bronzes.
+        -  The issues section also gives users tips on where and how to get further information on the subject matter and refers them to the signup page. 
+        - With the information gained in this section the user will be able to interract with the author of the website and make contributions.
+
+
+      ![Issues section](/assets/images/issues-section.png)
 
       
 
