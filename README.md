@@ -38,6 +38,29 @@ The Benin Bronzes website has four pages, namely the home page, timeline page, g
     
 
     ![Navigation Bar](/assets/images/navigation-bar.png)
+- Home Page
+    - Hero image with text overlay
+        - The home page has a large hero image of a Benin Bronze artefact and a text overlay which together immediately informs the visitor what the whole site is about.
+        - The hero image with the animation immediately captures the attention of the user towards the site and makes them inquisitive for more.
+
+
+        ![Hero image with text overlay](/assets/images/hero-image-feature.png)
+    
+
+    - Showcase section
+        - The showcase introduces the main object of focus of the site, namely the Benin Bronzes to the user, explains what the artefacts are, and explains their importance to its original creators and why they are also important today.
+        -  This showcase section content benefits the users of the site because with this information they are quickly captured in the story being told and get the motivation to continue to use the site.
+        - As part of the section is an embedded video clip with entertaining background information of the artefacts and about the issues involved. The video is a lighter way for a site visitor to quickly grasp the essence of sites main message.
+
+
+      ![Showcase section](/assets/images/showcase-section.png)
+
+      
+
+
+
+
+    
 
 
 ### Accessibility
