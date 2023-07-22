@@ -38,6 +38,13 @@ The Benin Bronzes website has four pages, namely the home page, timeline page, g
     
 
     ![Navigation Bar](/assets/images/navigation-bar.png)
+
+- Footer
+    - The footer is responsive. It is a feature on all the pages of the website. The footer contains social media links which open to a new tab and so allowing the user to navigate easily.
+    - The footer enables and employs the user to remain connected using social media
+
+    ![Footer](/assets/images/footer.png)
+
 - Home Page
     - Hero image with text overlay
         - The home page has a large hero image of a Benin Bronze artefact and a text overlay which together immediately informs the visitor what the whole site is about.
