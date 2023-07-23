@@ -249,7 +249,7 @@ footer {
     padding: 10px 40px;
     position: relative;
     background-color: inherit;
-    width: 50%;
+    width: 48%;
 }
 
     /* The circles on the timeline */
@@ -383,9 +383,9 @@ footer {
         left: 31px;
     }
 
-        /* Full-width containers */
+        /* Reduce container width */
     .container {
-        width: 100%;
+        width: 85%;
         padding-left: 70px;
         padding-right: 25px;
     }
@@ -399,8 +399,7 @@ footer {
     }
 
         /* Make all circles to be on same position */
-    .left::after,
-    .right::after {
+    .left::after, .right::after {
         left: 15px;
     }
 
