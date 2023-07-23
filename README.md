@@ -69,38 +69,35 @@ The Benin Bronzes website has four pages, namely the home page, timeline page, g
 
       ![Issues section](/assets/images/issues-section.webp)
 
-      
-
-
-
-
-    
-
 
 ### Accessibility
 ## Technologies Used
 ### Languages Used
 The languages used to create this site were HTML and CSS
-### Frameworks, Libraries and Programs Used
-Git was used for version control
+### Frameworks, Libraries & Programs Used
+Git was used for version control.
 
-Github was used to save and store the files for the website
+Github was used to save and store the files for the website.
 
-Gitpod workspace was used to write and edit code for the website
+Gitpod workspace was used to write and edit code for the website.
 
-Balsamiq was used to create wireframes for the website
+Balsamiq was used to create wireframes for the website.
 
-Fontawesome was use to generate icons on the website
+Fontawesome was use to generate icons on the website.
 
-Google Fonts was used to import fonts used on the website
+Google Fonts was used to import fonts used on the website.
 
-Chrome DevTools was used to inspect the rendered HTML and test out features of the website
+Chrome DevTools was used to inspect the rendered HTML and test out features of the website.
 
-[Tiny PNG](https://tinypng.com/) was used to compress some images used on the website
+[Tiny PNG](https://tinypng.com/) was used to compress some images used on the website.
 
-[Am I Responsive](https://ui.dev/amiresponsive) was used to show how the website would look on different devices
+[Am I Responsive](https://ui.dev/amiresponsive) was used to show how the website would look on different devices.
 
-## Deployment and Local Development
+[Birme](https://www.birme.net/?no_resize=true&image_format=webp) was used to change images to webp format.
+
+## Deployment & Local Development
+### Deployment
+
 ## Testing
 ## Credits
 ### Code Used
