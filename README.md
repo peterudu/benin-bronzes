@@ -6,7 +6,7 @@ By combining historic events with contemporary issues relating to these artefact
 
 ![Image of the website](/assets/images/amiresponsive.webp)
 
-Add a link to my live website hosted at GitHub Pages here.
+[The live link to the hosted project](https://peterudu.github.io/benin-bronzes/) 
 
 ## User Experience (UX)
 ## Design
