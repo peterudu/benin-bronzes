@@ -179,7 +179,7 @@ footer {
   /* adding background image to signup form-section */
 .form-section {
     clear: left;
-    background-image: url(../images/germany-return-artefacts.jpg);
+    background-image: url(../images/germany-return-artefacts.webp);
     background-size: cover;
     background-position: center;
     height: 900px;
