@@ -4,7 +4,7 @@ The Benin Bronzes website informs vistors about the origins, historic encounters
 
 By combining historic events with contemporary issues relating to these artefacts it is desired that vistors to the website will gain more insights about the Benin Bronzes, and as such awake their support for those advocating for the return of these artefacts back to their place of origin Benin City.
 
-Add an image of my finished website here. Use amiresponsive app to check how the site looks on different devices
+![Image of the website](/assets/images/amiresponsive.webp)
 
 Add a link to my live website hosted at GitHub Pages here.
 
@@ -13,7 +13,7 @@ Add a link to my live website hosted at GitHub Pages here.
 ### Colour Scheme
 The body of the website pages is characterized by a light terracotta coloured background which is used to present the basic face of the website. This colour was intentionally chosen with the aim to blend the background with the traditional colour of the Benin Bronzes artefacts as so capture the atmosphere of Benin City, the origin of where the objects were created. As contrast dark shades of black and brown are used for the headings and text which gives the site’s visitor a calming feel.
 
-![A range of colours](/assets/images/range-of-colors.png)
+![A range of colours](/assets/images/range-of-colors.webp)
 The colour choice was aided using the [webfx color-picker](https://www.webfx.com/web-design/color-picker/ ) tool
 
 ### Typography
@@ -27,8 +27,8 @@ Both fonts are san-serif and they complement each other.
 ### Wireframes
 Wireframes of the home page were created for mobile and desktop devices.
 
-- [Wireframe of home page on a desktop device](/assets/images/home-page-wireframe-desktop.png)
-- [Wireframe of home page on a mobile device](/assets/images/home-page-wireframe-mobile.png)
+- [Wireframe of home page on a desktop device](/assets/images/home-page-wireframe-desktop.webp)
+- [Wireframe of home page on a mobile device](/assets/images/home-page-wireframe-mobile.webp)
 
 ### Features
 The Benin Bronzes website has four pages, namely the home page, timeline page, gallery page and sign up page. Each of these pages are linked to one another and they can be accessed using the navigation menu in the navigation bar.
@@ -37,13 +37,13 @@ The Benin Bronzes website has four pages, namely the home page, timeline page, g
     - The navigation bar allows the site user to navigate from one page to another without the need to return back to the previous page. This provides for a better user experience.
     
 
-    ![Navigation Bar](/assets/images/navigation-bar.png)
+    ![Navigation Bar](/assets/images/navigation-bar.webp)
 
 - Footer
     - The footer is responsive. It is a feature on all the pages of the website. The footer contains social media links which open to a new tab and so allowing the user to navigate easily.
     - The footer enables and employs the user to remain connected using social media
 
-    ![Footer](/assets/images/footer.png)
+    ![Footer](/assets/images/footer.webp)
 
 - Home Page
     - Hero image with text overlay
@@ -51,7 +51,7 @@ The Benin Bronzes website has four pages, namely the home page, timeline page, g
         - The hero image with the animation immediately captures the attention of the user towards the site and makes them inquisitive for more.
 
 
-        ![Hero image with text overlay](/assets/images/hero-image-feature.png)
+        ![Hero image with text overlay](/assets/images/hero-image-feature.webp)
     
 
     - Showcase section
@@ -60,14 +60,14 @@ The Benin Bronzes website has four pages, namely the home page, timeline page, g
         - As part of the section is an embedded video clip with entertaining background information of the artefacts and about the issues involved. The video is a lighter way for a site visitor to quickly grasp the essence of sites main message.
 
 
-      ![Showcase section](/assets/images/showcase-section.png)
+      ![Showcase section](/assets/images/showcase-section.webp)
     - Issues section
         - The issues section begins with an image of a significant event that occured in the past. It then focuses on contemporary topics and events concerning the Benin Bronzes.
         -  The issues section also gives users tips on where and how to get further information on the subject matter and refers them to the signup page. 
         - With the information gained in this section the user will be able to interract with the author of the website and make contributions.
 
 
-      ![Issues section](/assets/images/issues-section.png)
+      ![Issues section](/assets/images/issues-section.webp)
 
       
 
