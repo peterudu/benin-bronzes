@@ -71,6 +71,11 @@ The Benin Bronzes website has four pages, namely the home page, timeline page, g
 
 
 ### Accessibility
+In order to ensure that the website is accessible the following measures were taken:
+- The code was written using semantic HTML.
+- In the footer I added aria-labels to icons used as links to social media to enable screen readers understand their purpose.
+- The alt attribute was used for images on the website to describe them to screen readers.
+- I used contrasting background colour and text colours on the website
 ## Technologies Used
 ### Languages Used
 The languages used to create this site were HTML and CSS
