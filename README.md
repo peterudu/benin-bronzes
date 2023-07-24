@@ -115,6 +115,10 @@ To clone this project proceed with the following steps:
 4. Open up the terminal of your code editor, select a directory for your project, type in the Git command  - ‘git clone’ and then paste in the copied link from the github repository.
 
 ## Testing
+### W3C Validator
+### Lighthouse
+### Fixed Bugs
+### Unfixed Bugs
 ## Credits
 ### Code Used
 - Code used to build the structure of the timeline on the timeline page was based on [W3Schools](https://www.w3schools.com/)
