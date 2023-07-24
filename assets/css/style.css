@@ -161,6 +161,10 @@ footer {
     color: #000000;
 }
 
+.enquires {
+    text-align: center;
+    margin-top: 30px;
+}
 /* gallery page */
 
 #pictures {
@@ -430,6 +434,11 @@ footer {
         /* Remove cover text for very small screen sizes */
     #cover-text {
         display: none;
+    }
+
+        /* Place navigation link items to the center */
+    nav {
+        justify-content: center;
     }
 
         /* Style menu area for small screens 450px wide */
