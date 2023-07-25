@@ -100,6 +100,8 @@ Chrome DevTools was used to inspect the rendered HTML and test out features of t
 
 [Birme](https://www.birme.net/?no_resize=true&image_format=webp) was used to change images to webp format.
 
+[Favicon.io](https://favicon.io/) was used to create favicon for the website
+
 ## Deployment & Local Development
 ### Deployment
 The site was deployed to GitHub pages. For the deployment the following steps are required:
