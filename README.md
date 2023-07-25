@@ -115,6 +115,7 @@ To clone this project proceed with the following steps:
 4. Open up the terminal of your code editor, select a directory for your project, type in the Git command  - ‘git clone’ and then paste in the copied link from the github repository.
 
 ## Testing
+### General
 ### W3C Validator
 ### Lighthouse
 ### Fixed Bugs
