@@ -9,6 +9,14 @@ By combining historic events with contemporary issues relating to these artefact
 [The live link to the hosted project](https://peterudu.github.io/benin-bronzes/) 
 
 ## User Experience (UX)
+### User Stories
+#### Vistors to the site would like:
+- To be able to access and use the site with different devices.
+- An easy to use and easily navigable website.
+- A website where they can get broad and up-to-date information concerning the Benin Bronzes.
+- To have the possibility to make contact and interract with the creators of the site and members of the Benin Bronzes Club.
+- A site which not only informs the vistors but also gives them advice, recommendations and help where to get further information they need.
+
 ## Design
 ### Colour Scheme
 The body of the website pages is characterized by a light terracotta coloured background which is used to present the basic face of the website. This colour was intentionally chosen with the aim to blend the background with the traditional colour of the Benin Bronzes artefacts as so capture the atmosphere of Benin City, the origin of where the objects were created. As contrast dark shades of black and brown are used for the headings and text which gives the site’s visitor a calming feel.
