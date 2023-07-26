@@ -1,8 +1,8 @@
 # Benin Bronzes
 
-The Benin Bronzes website informs vistors about the origins, historic encounters and cultural relevance of the famous Benin Bronzes artefacts.
+The Benin Bronzes website informs visitors about the origins, historic encounters and cultural relevance of the famous Benin Bronzes artefacts.
 
-By combining historic events with contemporary issues relating to these artefacts it is desired that vistors to the website will gain more insights about the Benin Bronzes, and as such awake their support for those advocating for the return of these artefacts back to their place of origin Benin City.
+By combining historic events with contemporary issues relating to these artefacts it is desired that visitors to the website will gain more insights about the Benin Bronzes and as such awaken their support for those advocating for the return of these artefacts back to their place of origin Benin City.
 
 ![Image of the website](/assets/images/amiresponsive.webp)
 
@@ -12,14 +12,14 @@ By combining historic events with contemporary issues relating to these artefact
 ### User Stories
 #### Vistors to the site would like:
 - To be able to access and use the site with different devices.
-- An easy to use and easily navigable website.
+- An easy-to-use and easily navigable website.
 - A website where they can get broad and up-to-date information concerning the Benin Bronzes.
-- To have the possibility to make contact and interract with the creators of the site and members of the Benin Bronzes Club.
-- A site which not only informs the vistors but also gives them advice, recommendations and help where to get further information they need.
+- To have the possibility to make contact and interact with the creators of the site and members of the Benin Bronzes Club.
+- A site that not only informs the visitors but also gives them advice, recommendations and help on where to get further information they need.
 
 ## Design
 ### Colour Scheme
-The body of the website pages is characterized by a light terracotta coloured background which is used to present the basic face of the website. This colour was intentionally chosen with the aim to blend the background with the traditional colour of the Benin Bronzes artefacts as so capture the atmosphere of Benin City, the origin of where the objects were created. As contrast dark shades of black and brown are used for the headings and text which gives the site’s visitor a calming feel.
+The body of the website pages is characterized by a light terracotta-coloured background which is used to present the basic face of the website. This colour was purposely chosen with the aim of blending the background colour with the traditional colour of the Benin Bronzes artefacts in order to capture the atmosphere of Benin City, the origin of where the objects were created. To achieve a contrasting display, dark shades of black and brown are used for the headings and for the text which gives the site’s visitor a calming feel.
 
 ![A range of colours](/assets/images/range-of-colors.webp)
 The colour choice was aided using the [webfx color-picker](https://www.webfx.com/web-design/color-picker/ ) tool
