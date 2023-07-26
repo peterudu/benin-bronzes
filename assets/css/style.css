@@ -241,8 +241,7 @@ footer {
     position: relative;
     max-width: 1200px;
     margin: 0 auto;
-    overflow-x: hidden;
-}
+} 
 
     /* The actual timeline (the vertical ruler) */
 .timeline::after {
@@ -420,6 +419,11 @@ footer {
     .right {
         left: 0%;
     }
+
+        /* Hide horizontal scrollbar for small devices */
+    .timeline {
+        overflow-x: hidden;
+    } 
 
     /* HOME page */
         /* Change the number of columns */
