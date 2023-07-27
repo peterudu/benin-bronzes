@@ -127,9 +127,19 @@ To clone this project proceed with the following steps:
 4. Open up the terminal of your code editor, select a directory for your project, type in the Git command  - ‘git clone’ and then paste in the copied link from the github repository.
 
 ## Testing
-### General
-### W3C Validator
-### Lighthouse
+### Automated Testing
+#### W3C Validator
+- [W3C HTML validator](https://validator.w3.org/) was used to validate the HTML on the following pages of the website.
+    - [index.html](/assets/images/w3c-indexhtml-validation.webp) - Passed test, no errors
+    - [timeline.html](/assets/images/w3c-timelinehtml-validation.webp) - Passed test, no errors
+    - [gallery.html]() - Passed test, no errors 
+    - [signup.html]() - Passed test, no errors
+
+<br>
+
+- [W3C CSS validator](https://jigsaw.w3.org/css-validator/) was used to validate the CSS stylesheet.
+    - [style.css]() - passed test no error
+#### Lighthouse
 ### Fixed Bugs
 ### Unfixed Bugs
 ## Credits
