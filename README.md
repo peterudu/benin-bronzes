@@ -132,14 +132,28 @@ To clone this project proceed with the following steps:
 - [W3C HTML validator](https://validator.w3.org/) was used to validate the HTML on the following pages of the website.
     - [index.html](/assets/images/w3c-indexhtml-validation.webp) - Passed test, no errors
     - [timeline.html](/assets/images/w3c-timelinehtml-validation.webp) - Passed test, no errors
-    - [gallery.html]() - Passed test, no errors 
-    - [signup.html]() - Passed test, no errors
+    - [gallery.html](/assets/images/w3c-galleryhtml-validation.webp) - Passed test, no errors 
+    - [signup.html](/assets/images/w3c-signuphtml-validation.webp) - Passed test, no errors
 
 <br>
 
 - [W3C CSS validator](https://jigsaw.w3.org/css-validator/) was used to validate the CSS stylesheet.
-    - [style.css]() - passed test no error
+    - [style.css](/assets/images/w3c-css-validator.webp) - passed test no error
 #### Lighthouse
+I used the Lighthouse feature from Chrome Developer Tools to test the levels of accessibility, performance and best practices for moblie and desktop devices. For both devices the accessibility results were over 90 percent.
+- [Desktop Results]()
+- [Mobile Result]()
+### Manual Testing
+#### Testing User Stories
+#### Full Testing
+Full testing was performed on:
+- Laptop:
+    - Lenovo V15-IGL
+- Mobile Device:
+    - LG Velvet
+#### General Testing
+- The site pages were tested on Chrome, Firefox and Edge browsers and they all worked out well.
+- I confirm that the form input fields in the signup page were all tested and their validation check works.
 ### Fixed Bugs
 ### Unfixed Bugs
 ## Credits
