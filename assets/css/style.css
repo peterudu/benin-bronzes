@@ -181,6 +181,12 @@ footer {
     column-gap: 0;
 }
 
+#pictures h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin: 0 auto;
+}
+
 #pictures > img {
     width: 100%;
 }
