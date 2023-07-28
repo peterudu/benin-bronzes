@@ -140,9 +140,9 @@ To clone this project proceed with the following steps:
 - [W3C CSS validator](https://jigsaw.w3.org/css-validator/) was used to validate the CSS stylesheet.
     - [style.css](/assets/images/w3c-css-validator.webp) - passed test no error
 #### Lighthouse
-I used the Lighthouse feature from Chrome Developer Tools to test the levels of accessibility, performance and best practices for moblie and desktop devices. For both devices the accessibility results were over 90 percent.
-- [Desktop Results]()
-- [Mobile Result]()
+I used the Lighthouse feature from Chrome Developer Tools to test the levels of accessibility, performance and best practices for moblie and desktop devices. For both devices the accessibility results were over 97 percent.
+- [Desktop Results](/assets/images/lighthouse-desktop-results.webp)
+- [Mobile Result](/assets/images/lighthouse-mobile-results.webp)
 ### Manual Testing
 #### Testing User Stories
 #### Full Testing
@@ -153,7 +153,7 @@ Full testing was performed on:
     - LG Velvet
 #### General Testing
 - The site pages were tested on Chrome, Firefox and Edge browsers and they all worked out well.
-- I confirm that the form input fields in the signup page were all tested and their validation check works.
+- I confirm that the [form input fields](/assets/images/form-input-test.webp) in the signup page were all tested and their validation check works.
 ### Fixed Bugs
 ### Unfixed Bugs
 ## Credits
