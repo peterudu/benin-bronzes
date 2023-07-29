@@ -175,9 +175,7 @@ Full testing was performed on:
 | No. | Bug | How I fixed the problem |
 | ---| ---| ---|
 | 1 | Four error notifications were displayed after I ran the W3C HTML validator test. The errors were related to width and height percentage values for HTML iframe and figure > img elements. ![w3c-error-notification](/assets/images/error-notification.webp) | I researched on Google and got a suggested solution to change the art of styling. I removed the inline HTML width and height styling element attributes from the iframe (YouTube video) and the img in figure nested (image with caption) HTML elements and instead used CSS stylesheet to set the values for width and height. I ran the W3C HTML validator test again and there were no more errors |
-| 2 |  |  |
-| 3 |  |  |
-| 4 |  |  |
+| 2 | By smaller screens the displayed container wrapper nesting text content on the timeline page was unstable and constantly shifting sideways left and right. This was due to problem with the horizontal scrollbar. | I fixed this problem by hidding the horizontal scrollbar for all small devices less than 600px |
 ### Unfixed Bugs
 ## Credits
 ### Code Used
