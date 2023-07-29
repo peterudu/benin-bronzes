@@ -168,6 +168,26 @@ Full testing was performed on:
     - Lenovo V15-IGL
 - Mobile Device:
     - LG Velvet
+
+I used my laptop and mobile device to conduct the following test:
+| Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
+| ---| ---| ---| ---| ---|
+| NAVBAR |  |  |  |  |  
+|  Benin Bronzes logo  | If clicked the user should be redirected to the home page. | Clicked logo  | Redirects to home page. | pass |
+| Home page link | If clicked the user should be redirected to the home page. | Clicked link | Redirects to home page. | pass |
+| Timeline page link | If clicked the user should be redirected to the timeline page. | Clicked link | Redirects to timeline page. | pass |
+| Gallery page link | If clicked the user should be redirected to the gallery page. | Clicked link | Redirects to gallery page. | pass |
+| Signup page link | If clicked the user should be redirected to the signup page | Clicked link | Redirects to signup page. | pass |
+| FOOTER |  |  |  |  |
+| Facebook icon | If clicked the user should be redirected to facebook site and it opens in a new tab. | Clicked icon | Redirects to facebook site and opens in a new tab. | pass |
+| Twitter icon | If clicked the user should be redirected to twitter site and it opens in a new tab.  | Clicked icon | Redirects to twitter site and opens in a new tab.  | pass |
+| YouTube icon | If clicked the user should be redirected to youtube site and it opens in a new tab.  |  Clicked icon | Redirects to youtube site and opens in a new tab.  | pass |
+| Instagram icon | If clicked the user should be redirected to instagram site and it opens in a new tab.  | Clicked icon | Redirects to instagram site and opens in a new tab.  | pass |
+| HOME PAGE |  |  |  |  |
+| Digital Benin link | If clicked the user should be redirected to Digital Benin site and it opens in a new tab. | Clicked link | Redirects to Digital Benin site and opens in a new tab. | pass |
+| Contact us link | If clicked the user should be redirected to signup page. | Clicked link | Redirects to signup page. | pass |
+
+
 #### General Testing
 - The site pages were tested on Chrome, Firefox and Edge browsers and they all worked out well.
 - I confirm that the [form input fields](/assets/images/form-input-test.webp) in the signup page were all tested and their validation check works.
@@ -179,7 +199,7 @@ Full testing was performed on:
 ### Unfixed Bugs
 | No. | Bugs |  
 | ---| ---|  
-| 1 | On the timeline page the arrows pointing right for the left sided containers move away from the container. There is a space created between arrow and container. I could not fix this for the moment however this problem will be solved in future  |  
+| 1 | On the timeline page the arrows pointing right for the left sided containers move away from the container. There is a space existing between the arrow and the container. I could not fix this for the moment however this problem will be solved in future  |  
 
 
 ## Credits
