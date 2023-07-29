@@ -177,6 +177,11 @@ Full testing was performed on:
 | 1 | Four error notifications were displayed after I ran the W3C HTML validator test. The errors were related to width and height percentage values for HTML iframe and figure > img elements. ![w3c-error-notification](/assets/images/error-notification.webp) | I researched on Google and got a suggested solution to change the art of styling. I removed the inline HTML width and height styling element attributes from the iframe (YouTube video) and the img in figure nested (image with caption) HTML elements and instead used CSS stylesheet to set the values for width and height. I ran the W3C HTML validator test again and there were no more errors |
 | 2 | By smaller screens the displayed container wrapper nesting text content on the timeline page was unstable and constantly shifting sideways left and right. This was due to problem with the horizontal scrollbar. | I fixed this problem by hidding the horizontal scrollbar for all small devices less than 600px |
 ### Unfixed Bugs
+| No. | Bugs |  
+| ---| ---|  
+| 1 | On the timeline page the arrows pointing right for the left sided containers move away from the container. There is a space created between arrow and container. I could not fix this for the moment however this problem will be solved in future  |  
+
+
 ## Credits
 ### Code Used
 - Code used to build the structure of the timeline on the timeline page was based on [W3Schools](https://www.w3schools.com/)
