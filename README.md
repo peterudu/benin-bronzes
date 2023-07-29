@@ -172,6 +172,12 @@ Full testing was performed on:
 - The site pages were tested on Chrome, Firefox and Edge browsers and they all worked out well.
 - I confirm that the [form input fields](/assets/images/form-input-test.webp) in the signup page were all tested and their validation check works.
 ### Fixed Bugs
+| No. | Bug | How I fixed the problem |
+| ---| ---| ---|
+| 1 | Four error notifications were displayed after I ran the W3C HTML validator test. The errors were related to width and height percentage values for HTML iframe and figure > img elements. ![w3c-error-notification](/assets/images/error-notification.webp) | I researched on Google and got a suggested solution to change the art of styling. I removed the inline HTML width and height styling element attributes from the iframe (YouTube video) and the img in figure nested (image with caption) HTML elements and instead used CSS stylesheet to set the values for width and height. I ran the W3C HTML validator test again and there were no more errors |
+| 2 |  |  |
+| 3 |  |  |
+| 4 |  |  |
 ### Unfixed Bugs
 ## Credits
 ### Code Used
