@@ -146,51 +146,21 @@ I used the Lighthouse feature from Chrome Developer Tools to test the levels of 
 ### Manual Testing
 #### Testing User Stories
 Firsttime Visitors
-<table>
-  <tr>
-    <th>Goals</th>
-    <th>How are they achieved?</th>
-  </tr>
-  <tr>
-    <td>I want to be able to access and use the website with different screen-sized devices.</td>
-    <td>I developed the site with the set out goal of it being responsive as such it could be accessed with either a mobile phone, a tablet, a laptop or a desktop.</td>
-  </tr>
-  <tr>
-    <td>I want an easy-to-use and easily navigable website.</td>
-    <td> The site pages have an identical navigation bar with menu links which enables the visitor to easily move from one page to the next. I used a uniform background on all pages, large readable headings, simple icons and interesting video medium to create an enjoyable experience for the visitor.</td>
-  </tr>
-</table>
-<br>
+| Goals | How are they achieved? |
+| ---| ---|
+| I want to be able to access and use the website with different screen-sized devices. | I developed the site with the set out goal of it being responsive as such it could be accessed with either a mobile phone, a tablet, a laptop or a desktop. |
+| I want an easy-to-use and easily navigable website. | The site pages have an identical navigation bar with menu links which enables the visitor to easily move from one page to the next. I used a uniform background on all pages, large readable headings, simple icons and interesting video medium to create an enjoyable experience for the visitor. |
 
 Returning Visitors
+| Goals | How are they achieved? |
+| ---| ---|
+| I want a website where I can get a broad and up-to-date information concerning the Benin Bronzes. | The site covers a broad range of issues relating to the Benin Bronzes. It explains what they are, describes their origins, their journeys over centuries, contemporary issues affecting them as well as tips on where to get more information about them. In future I intend to update information on the site and also integrate visitors comments and ideas regarding content |
+| I want to have the possibility to make contact and interact with the creators of the site and members of the Benin Bronzes Club. | The footer contains media icons which links the visitor to the social media contacts of the creators. The signup page has a signup form which visitors can use to sign in and join the Benin Bronzes Club. |
 
-<table>
-  <tr>
-    <th>Goals</th>
-    <th>How are they achieved?</th>
-  </tr>
-  <tr>
-    <td>I want a website where I can get a broad and up-to-date information concerning the Benin Bronzes.</td>
-    <td>The site covers a broad range of issues relating to the Benin Bronzes. It explains what they are, describes their origins, their journeys over centuries, contemporary issues affecting them as well as tips on where to get more information about them. In future I intend to update information on the site and also integrate visitors comments and ideas regarding content</td>
-  </tr>
-  <tr>
-    <td>I want to have the possibility to make contact and interact with the creators of the site and members of the Benin Bronzes Club.</td>
-    <td>The footer contains media icons which links the visitor to the social media contacts of the creators. The signup page has a signup form which visitors can use to sign in and join the Benin Bronzes Club.
-    </td>
-  </tr>
-</table>
-<br>
 Frequent Visitors
-<table>
-  <tr>
-    <th>Goals</th>
-    <th>How are they achieved?</th>
-  </tr>
-  <tr>
-    <td>I want a site that not only offers me information but also gives me advice, recommendations and help on where to get further information that I may need.</td>
-    <td>The site has historical and contemporary information on the home and timeline pages. The gallery page has a catalogue of images. I recommended a site where visitors could get more information and help. The site advices visitors to join the Benin Bronzes Club.</td>
-  </tr>
-</table>
+| Goals | How are they achieved? |
+| ---| ---|
+| I want a site that not only offers me information but also gives me advice, recommendations and help on where to get further information that I may need. | The site has historical and contemporary information on the home and timeline pages. The gallery page has a catalogue of images. On the home page visitors are recommended to use a link which leads to another website where they could get more information and help. The home page and signup page also advices visitors to join the Benin Bronzes Club. |
 
 #### Full Testing
 Full testing was performed on:
