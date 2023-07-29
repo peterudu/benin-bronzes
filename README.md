@@ -169,7 +169,7 @@ Full testing was performed on:
 - Mobile Device:
     - LG Velvet
 
-I used my laptop and mobile device to conduct the following test:
+My son used laptop and mobile device to conduct the following test:
 | Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
 | ---| ---| ---| ---| ---|
 | NAVBAR |  |  |  |  |  
